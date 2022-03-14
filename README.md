@@ -10,6 +10,8 @@
 ## To start a game, please type one of these commands in the console:    
 ```brain-games```  
 ```brain-even```
+```brain-calc```
+```brain-gcd```
 
 ## Asciinemas:   
 ### brain-games
@@ -20,3 +22,6 @@
 
 ### brain-calc
 [![asciicast](https://asciinema.org/a/hvPKSH7EOJbyZ0krTLvh74ruA.svg)](https://asciinema.org/a/hvPKSH7EOJbyZ0krTLvh74ruA)
+
+### brain-gcd
+[![asciicast](https://asciinema.org/a/hxci7L3zHlqyBhG47uuJFjjxk.svg)](https://asciinema.org/a/hxci7L3zHlqyBhG47uuJFjjxk)
