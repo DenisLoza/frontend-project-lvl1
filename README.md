@@ -16,4 +16,7 @@
 [![asciicast](https://asciinema.org/a/oE6vA6nskhAioVGebRAZZoPBt.svg)](https://asciinema.org/a/oE6vA6nskhAioVGebRAZZoPBt) 
 
 ### brain-even
-[![asciicast](https://asciinema.org/a/0yRHQHRpWtvg0MRX7VTAXYuiU.svg)](https://asciinema.org/a/0yRHQHRpWtvg0MRX7VTAXYuiU) 
+[![asciicast](https://asciinema.org/a/0yRHQHRpWtvg0MRX7VTAXYuiU.svg)](https://asciinema.org/a/0yRHQHRpWtvg0MRX7VTAXYuiU)
+
+### brain-calc
+[![asciicast](https://asciinema.org/a/hvPKSH7EOJbyZ0krTLvh74ruA.svg)](https://asciinema.org/a/hvPKSH7EOJbyZ0krTLvh74ruA)
