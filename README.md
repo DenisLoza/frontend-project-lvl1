@@ -12,6 +12,7 @@
 ```brain-even```
 ```brain-calc```
 ```brain-gcd```
+```brain-progression```
 
 ## Asciinemas:   
 ### brain-games
@@ -25,3 +26,6 @@
 
 ### brain-gcd
 [![asciicast](https://asciinema.org/a/hxci7L3zHlqyBhG47uuJFjjxk.svg)](https://asciinema.org/a/hxci7L3zHlqyBhG47uuJFjjxk)
+
+### brain-progression
+[![asciicast](https://asciinema.org/a/XAEhKSate0luK7UclvOsNqvzU.svg)](https://asciinema.org/a/XAEhKSate0luK7UclvOsNqvzU)
