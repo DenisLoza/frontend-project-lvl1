@@ -13,6 +13,7 @@
 ```brain-calc```
 ```brain-gcd```
 ```brain-progression```
+```brain-prime```
 
 ## Asciinemas:   
 ### brain-games
@@ -29,3 +30,6 @@
 
 ### brain-progression
 [![asciicast](https://asciinema.org/a/XAEhKSate0luK7UclvOsNqvzU.svg)](https://asciinema.org/a/XAEhKSate0luK7UclvOsNqvzU)
+
+### brain-progression
+[![asciicast](https://asciinema.org/a/YxfHNoqAUFw4GAz7p6DWlZdHX.svg)](https://asciinema.org/a/YxfHNoqAUFw4GAz7p6DWlZdHX)
