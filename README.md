@@ -5,7 +5,7 @@
 
 [![Node CI](https://github.com/DenisLoza/frontend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/DenisLoza/frontend-project-lvl1/actions/workflows/node.js.yml)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/866b08ec9bd287500a2a/maintainability)](https://codeclimate.com/github/DenisLoza/frontend-project-lvl1/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/5c98d04cb6c6988a0bf5e7368d304e22dd1e4245b85952dc585eff84d4bb3312/maintainability)](https://codeclimate.com/github/DenisLoza/frontend-project-lvl1/maintainability)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/DenisLoza/frontend-project-lvl1)
 
