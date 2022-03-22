@@ -5,7 +5,9 @@
 
 [![Node CI](https://github.com/DenisLoza/frontend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/DenisLoza/frontend-project-lvl1/actions/workflows/node.js.yml)
 
-<a href="https://codeclimate.com/github/DenisLoza/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/e6d5b3e0bbef59c42119/maintainability" /></a>
+<a href="https://codeclimate.com/github/DenisLoza/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/e6d5b3e0bbef59c42119/maintainability"/></a>
+
+![GitHub top language](https://img.shields.io/github/languages/top/DenisLoza/frontend-project-lvl1)
 
 ## To start a game, please type one of these commands in the console:    
 ```brain-games```  
